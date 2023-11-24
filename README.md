@@ -91,12 +91,12 @@ done
 
 `vim ./xmas.sh`
 
-*Цвет елки \- `# Set the text color to green to write the tree`*
-*Рисуем елку \- `# Write the tree`*
-*Цвет ствола \- `# Set the color to brown for the trunk`*
-*Рисуем ствол \- `# Write the Trunk in three lines`*
-*Смена текста \- `# Write a greeting`*
-*Смена анимации \- `# Configure lights and decorations`*
+- *Цвет елки \- `# Set the text color to green to write the tree`*
+- *Рисуем елку \- `# Write the tree`*
+- *Цвет ствола \- `# Set the color to brown for the trunk`*
+- *Рисуем ствол \- `# Write the Trunk in three lines`*
+- *Смена текста \- `# Write a greeting`*
+- *Смена анимации \- `# Configure lights and decorations`*
 
 ## Авторы
 
